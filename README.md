@@ -35,8 +35,8 @@ Your Telegram bot's informations will be encrypted, it will only be decrypted at
 Another reason to use it is that it is very tiny (40 kilobytes of compiled executable).
 
  # Runtime requirements
- - Builder.exe ([NET Runtime 6.0.*](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))
- - Stub/OctopusKeylogger.exe ([NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472))
+ - Attacker side: Builder.exe ([NET Runtime 6.0.*](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))
+ - Victim side: Stub/OctopusKeylogger.exe ([NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472))
 
 # Usage
 1 - Run Builder.exe
