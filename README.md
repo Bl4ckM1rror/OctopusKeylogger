@@ -41,7 +41,7 @@ Another reason to use it is that it is very tiny (40 kilobytes of compiled execu
 # Usage
 1 - Run Builder.exe
 
-2 - Enter your Telegram api token and Telegram chat id informations
+2 - Enter your Telegram api token and Telegram chat id information
 
 3 - Check your telegram bot, and enter the 2FA code you received
 
