@@ -12,15 +12,12 @@
 <p align="center">I will not be held accountable for any illegal activities.</p>
 
 
-
-***
-
-# :octopus: Data extraction:
+# :octopus: Data Exfiltration:
 - [x] AntiAnalysis features
 - [x] Get system info (OS Version, Computer Name, Username)
 - [x] Grab Antivirus software installed
 - [x] Get Network info (Gateway, Internal and External IP address)
-- [X] Grab Social Networks (and also other services, see the entire list below) keystrokes 
+- [x] Grab Social Network keystrokes (and also other services, see the entire list below)
 - [x] Autorun module 
 
 # :brain: Why is it "smart"?
@@ -39,16 +36,11 @@ Another reason to use it is that it is very tiny (40 kilobytes of compiled execu
  - Victim side: Stub/OctopusKeylogger.exe ([NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472))
 
 # Usage
-1 - Run Builder.exe
-
-2 - Enter your Telegram api token and Telegram chat id information
-
-3 - Check your telegram bot, and enter the 2FA code you received
-
-4 - If everything is ok, your keylogger will be saved in Stub/OctopusKeylogger.exe  
-
-5 - Run OctopusKeylogger.exe and let the magic begin :sparkles:
-
+1. Run Builder.exe
+2. Enter your Telegram api token and Telegram chat id information
+3. Check your telegram bot, and enter the 2FA code you received
+4. If everything is ok, your keylogger will be saved in Stub/OctopusKeylogger.exe  
+5. Run OctopusKeylogger.exe and let the magic begin :sparkles:
 
 # :calling: Telegram notification:
 <p align="center">
