@@ -36,7 +36,7 @@ Another reason to use it is that it is very tiny (40 kilobytes of compiled execu
 
  # Runtime requirements
  - Builder.exe ([NET Runtime 6.0.*](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))
- - Stub.exe ([NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472))
+ - Stub/OctopusKeylogger.exe ([NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472))
 
 # Usage
 1 - Run Builder.exe
