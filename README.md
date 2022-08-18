@@ -12,7 +12,7 @@
 <p align="center">I will not be held accountable for any illegal activities.</p>
 
 
-# :octopus: Data Exfiltration:
+# :octopus: Data Exfiltration
 - [x] AntiAnalysis features
 - [x] Get system info (OS Version, Computer Name, Username)
 - [x] Grab Antivirus software installed
@@ -42,7 +42,7 @@ Another reason to use it is that it is very tiny (40 kilobytes of compiled execu
 4. If everything is ok, your keylogger will be saved in Stub/OctopusKeylogger.exe  
 5. Run OctopusKeylogger.exe and let the magic begin :sparkles:
 
-# :calling: Telegram notification:
+# :calling: Telegram alert
 <p align="center">
   <img src="https://i.ibb.co/cY5Bmqx/telegram-Bot.jpg">
 </p>
