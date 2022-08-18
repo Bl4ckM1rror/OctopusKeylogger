@@ -5,6 +5,7 @@
 </p>
 
 
+
 # :rotating_light: Disclaimer :rotating_light:
 <p align="center">I, the creator, am not responsible for any actions, and or damages, caused by this software.</p>
 <p align="center">You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only.</p>
@@ -33,9 +34,16 @@ Your Telegram bot's informations will be encrypted, it will only be decrypted at
 
 Another reason to use it is that it is very tiny (40 kilobytes of compiled executable).
 
- # Runtime requirements:
+ # Runtime requirements
  - Builder.exe ([NET Runtime 6.0.*](https://dotnet.microsoft.com/en-us/download/dotnet/6.0))
  - Stub.exe ([NET Framework 4.7.2](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472))
+
+# Usage
+:one: Run Builder.exe
+:two: Enter your Telegram api token and Telegram chat id informations
+:three: Check your telegram bot, and enter the 2FA code you received
+:four: If everything is ok, your keylogger will be saved in Stub/OctopusKeylogger.exe  
+:five: Run OctopusKeylogger.exe and let the magic begin :sparkles:
 
 ***
 
@@ -43,5 +51,5 @@ Another reason to use it is that it is very tiny (40 kilobytes of compiled execu
 <p align="center">
   <img src="https://i.ibb.co/cY5Bmqx/telegram-Bot.jpg">
 </p>
-
 ***
+
